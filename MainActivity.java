@@ -1,4 +1,4 @@
-package com.example.weapo.independentproject;
+
 
 import android.content.Context;
 import android.content.pm.PackageManager;
